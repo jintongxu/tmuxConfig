@@ -1,6 +1,6 @@
 # tmux个人配置
 
-## 二、使用方法
+## 一、使用方法
 ```bash
 git clone https://github.com/xjintong/tmuxConfig.git
 
