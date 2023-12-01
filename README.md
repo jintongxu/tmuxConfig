@@ -15,7 +15,8 @@ cp .tmux.conf ~/
 source ~/.tmux.conf
 ```
 
-## ctrl + a 大前提
+## 快捷键 
+### ctrl + a 大前提
 
 - **|** ：竖直分割窗口
 - **-** ：水平分割窗口
@@ -31,6 +32,6 @@ source ~/.tmux.conf
 - **w** ：查看所有窗口
 - **[** ：进入vim复制模式，ctrl+c 退出。
 
-## ctrl 大前提
+### ctrl 大前提
 - **h/j/k/l** ：光标移动到不同窗口
 
