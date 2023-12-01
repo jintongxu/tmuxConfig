@@ -1,4 +1,19 @@
-# tmux个性快捷键
+# tmux个人配置
+
+## 使用方法
+```bash
+git clone https://github.com/xjintong/tmuxConfig.git
+
+cd tmuxConfig
+
+cp -r .tmux ~/
+cp .tmux.conf ~/
+```
+使文件生效。
+```bash
+# ctrl + b + shifl + : 进入tmux的命令模式
+source ~/.tmux.conf
+```
 
 ## ctrl + a 大前提
 
