@@ -1,6 +1,6 @@
 # tmux个人配置
 
-## 使用方法
+## 二、使用方法
 ```bash
 git clone https://github.com/xjintong/tmuxConfig.git
 
@@ -15,7 +15,7 @@ cp .tmux.conf ~/
 source ~/.tmux.conf
 ```
 
-## 快捷键 
+## 二、快捷键 
 ### ctrl + a 大前提
 
 - **|** ：竖直分割窗口
