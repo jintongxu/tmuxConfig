@@ -6,11 +6,10 @@ git clone https://github.com/xjintong/tmuxConfig.git
 
 cd tmuxConfig
 
-sudo chmod +x  install.sh
+sudo chmod +x  install.sh 
 
-./install.sh
-```
-```bash
+./install.sh 
+
 ```
 
 ## 二、快捷键 
