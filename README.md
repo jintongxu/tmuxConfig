@@ -1,14 +1,29 @@
 # tmux个人配置
 
 ## 一、使用方法
+### Ubuntu系列
+如果包管理器是apt的就用这个。
+
 ```bash
 git clone https://github.com/xjintong/tmuxConfig.git
 
 cd tmuxConfig
 
-sudo chmod +x  install.sh 
+sudo chmod +x  install_ubuntu.sh 
 
-./install.sh 
+./install_ubuntu.sh 
+
+```
+
+### ArchLinux
+```bash
+git clone https://github.com/xjintong/tmuxConfig.git
+
+cd tmuxConfig
+
+sudo chmod +x  install_arch.sh 
+
+./install_arch.sh 
 
 ```
 
