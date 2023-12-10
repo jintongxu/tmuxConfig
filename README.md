@@ -1,7 +1,7 @@
 # tmux个人配置
 
 ## 一、使用方法
-### Ubuntu系列
+### Ubuntu
 如果包管理器是apt的就用这个。
 
 ```bash
