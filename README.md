@@ -47,3 +47,7 @@ sudo chmod +x  install_arch.sh
 ### ctrl 大前提
 - **h/j/k/l** ：光标移动到不同窗口
 
+### ctrl + 两次 a 
+
+ctrl + 两次a，然后再按**x**可以退出qemu的界面。
+
