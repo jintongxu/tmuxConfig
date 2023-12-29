@@ -17,11 +17,9 @@ sudo chmod +x  install_ubuntu.sh
 
 ### ArchLinux
 ```bash
-git clone https://github.com/xjintong/tmuxConfig.git
+git clone git@github.com:jintongxu/tmuxConfig.git 
 
-cd tmuxConfig
-
-sudo chmod +x  install_arch.sh 
+cd tmuxConfig && sudo chmod +x  install_arch.sh 
 
 ./install_arch.sh 
 
@@ -43,9 +41,18 @@ sudo chmod +x  install_arch.sh
 - **p** ：切换到上个窗口
 - **w** ：查看所有窗口
 - **[** ：进入vim复制模式，ctrl+c 退出。
+- **d**：将当前窗口与会话分离
+- **s**：列出当前所有的会话
+- **$**：重命名当前会话
 
 ### ctrl 大前提
 - **h/j/k/l** ：光标移动到不同窗口
+
+### 在进入tmux之前的快捷键
+- tmux ls：列出当前所有的会话
+- tmux attach -t 会话编号    重新接入默认会话
+- tmux kill-session -t 会话编号    杀死某个会话
+
 
 ### ctrl + 两次 a 
 
