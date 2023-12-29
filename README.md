@@ -7,9 +7,7 @@
 ```bash
 git clone https://github.com/xjintong/tmuxConfig.git
 
-cd tmuxConfig
-
-sudo chmod +x  install_ubuntu.sh 
+cd tmuxConfig && sudo chmod +x  install_ubuntu.sh 
 
 ./install_ubuntu.sh 
 
